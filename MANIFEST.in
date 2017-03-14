@@ -1,0 +1,4 @@
+include LICENSE.txt
+include puzzlebox_brainstorms_configuration.ini
+include puzzlebox_brainstorms.desktop
+include images/*

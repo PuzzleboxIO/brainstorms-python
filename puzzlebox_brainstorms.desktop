@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Puzzlebox Brainstorms
+GenericName=Brain-Computer Interface
+Comment=Control robots and devices through Brain-Computer Interfaces (BCIs)
+Exec=/usr/bin/env python /usr/lib/python2.7/site-packages/brainstorms-local.py
+Icon=/usr/share/puzzlebox_brainstorms/images/puzzlebox.ico
+MimeType=application/x-puzzlebox;
+Terminal=false
+Encoding=UTF-8
+Type=Application
+Categories=Education;Science;
+X-Desktop-File-Install-Version=0.15
