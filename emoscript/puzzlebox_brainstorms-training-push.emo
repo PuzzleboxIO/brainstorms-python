@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE EML>
+<EML version="1.0" language="en_US">
+<sequence>
+		<time value ="0s2t">
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s6t">
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s11t">
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s16t">
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s18t">
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s21t">
+		<cognitiv event="push" value="0.000801743" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s26t">
+		<cognitiv event="push" value="0.108376" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="0s30t">
+		<cognitiv event="push" value="0.212551" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s1t">
+		<cognitiv event="push" value="0.312069" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s6t">
+		<cognitiv event="push" value="0.405961" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s10t">
+		<cognitiv event="push" value="0.49301" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s14t">
+		<cognitiv event="push" value="0.569794" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s17t">
+		<cognitiv event="push" value="0.621556" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s22t">
+		<cognitiv event="push" value="0.647338" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s25t">
+		<cognitiv event="push" value="0.646925" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="1s30t">
+		<cognitiv event="push" value="0.620057" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s1t">
+		<cognitiv event="push" value="0.570432" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s5t">
+		<cognitiv event="push" value="0.506706" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s11t">
+		<cognitiv event="push" value="0.450379" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s14t">
+		<cognitiv event="push" value="0.412777" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s18t">
+		<cognitiv event="push" value="0.392487" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s20t">
+		<cognitiv event="push" value="0.392487" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s22t">
+		<cognitiv event="push" value="0.386782" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s26t">
+		<cognitiv event="push" value="0.393135" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="2s30t">
+		<cognitiv event="push" value="0.409254" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s2t">
+		<cognitiv event="push" value="0.433085" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s6t">
+		<cognitiv event="push" value="0.462805" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s10t">
+		<cognitiv event="push" value="0.496817" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s16t">
+		<cognitiv event="push" value="0.533734" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s18t">
+		<cognitiv event="push" value="0.572368" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s21t">
+		<cognitiv event="push" value="0.611712" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s25t">
+		<cognitiv event="push" value="0.650932" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="3s29t">
+		<cognitiv event="push" value="0.689345" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+	<time value ="4s0t">
+		<cognitiv event="push" value="0.689345" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s2t">
+		<cognitiv event="push" value="0.726405" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s4t">
+		<cognitiv event="push" value="0.726405" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s6t">
+		<cognitiv event="push" value="0.76169" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s5t">
+		<cognitiv event="push" value="0.787727" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s9t">
+		<cognitiv event="push" value="0.705875" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s10t">
+		<cognitiv event="push" value="0.794886" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s13t">
+		<cognitiv event="push" value="0.622124" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s17t">
+		<cognitiv event="push" value="0.535617" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s19t">
+		<cognitiv event="push" value="0.535617" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s21t">
+		<cognitiv event="push" value="0.453488" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s25t">
+		<cognitiv event="push" value="0.381823" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s30t">
+		<cognitiv event="push" value="0.310574" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s14t">
+		<cognitiv event="push" value="0.825774" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s18t">
+		<cognitiv event="push" value="0.854214" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s23t">
+		<cognitiv event="push" value="0.880139" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s26t">
+		<cognitiv event="push" value="0.903536" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="4s30t">
+		<cognitiv event="push" value="0.92444" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s1t">
+		<cognitiv event="push" value="0.942924" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s2t">
+		<cognitiv event="push" value="0.830478" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s5t">
+		<cognitiv event="push" value="0.74281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s8t">
+		<cognitiv event="push" value="0.54281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s11t">
+		<cognitiv event="push" value="0.44281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s14t">
+		<cognitiv event="push" value="0.34281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s19t">
+		<cognitiv event="push" value="0.24281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s22t">
+		<cognitiv event="push" value="0.14281" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="5s31t">
+		<cognitiv event="push" value="0.0" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+		<time value ="9s31t">
+		<cognitiv event="push" value="0.0" />
+		<signal_quality value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" />
+	</time>
+</sequence>
+</EML>

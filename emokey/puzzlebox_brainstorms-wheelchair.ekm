@@ -1,0 +1,46 @@
+<EmoMappingModel mappingName="puzzlebox_brainstorms-wheelchair.ekm" >
+    <EmoMapping enabled="1" name="Forward" keys="i" sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="1" holdTime="1000" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="18" />
+            <threshold type="double" value="0.3" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Left" keys="j" sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="1" holdTime="100" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="22" />
+            <threshold type="double" value="0.4" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Right" keys="l" sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="1" holdTime="100" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="23" />
+            <threshold type="double" value="0.4" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Stop" keys=" " sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="18" />
+            <threshold type="double" value="0.3" />
+            <actionRule value="3" />
+        </EmoStateCondition>
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="22" />
+            <threshold type="double" value="0.3" />
+            <actionRule value="3" />
+        </EmoStateCondition>
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="23" />
+            <threshold type="double" value="0.3" />
+            <actionRule value="3" />
+        </EmoStateCondition>
+    </EmoMapping>
+</EmoMappingModel>

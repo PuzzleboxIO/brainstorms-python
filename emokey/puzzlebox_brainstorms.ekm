@@ -1,0 +1,50 @@
+<EmoMappingModel mappingName="puzzlebox_brainstorms.ekm" >
+    <EmoMapping enabled="1" name="drive_forward" keys="w" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="20" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="drive_left" keys="a" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="22" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="drive_reverse" keys="s" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="21" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="drive_right" keys="d" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="23" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="push_forward" keys="w" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="18" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="turn_in_reverse" keys="c" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" hotKey="0" holdKey="1" holdTime="20" triggerDelayTime="20" player="0">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="19" />
+            <threshold type="double" value="0.8" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+</EmoMappingModel>
