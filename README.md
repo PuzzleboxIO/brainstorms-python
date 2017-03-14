@@ -8,6 +8,7 @@ Puzzlebox Brainstorms
 Copyright (2010-2017)
 
 by Puzzlebox Productions, LLC
+
 https://puzzlebox.io/brainstorms
 
 
@@ -54,10 +55,13 @@ $ sudo port install py27-pyside py27-simplejson py27-serial py27-matplotlib
 $ sudo easy_install-2.7 jaraco.nxt
 
 $ git clone https://github.com/PuzzleboxIO/synapse-python
+
 $ git clone https://github.com/PuzzleboxIO/brainstorms-python
 
 $ cd brainstorms-python/Puzzlebox
+
 $ ln -s ../synapse-python/Puzzlebox/Synapse Synapse
+
 $ cd ..
 
 $ python2.7 brainstorms-local.py
