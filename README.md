@@ -31,6 +31,7 @@ Required Python Modules:
 - serial
 - jaraco.nxt
 
+
 ============
 
 Instructions:
@@ -50,7 +51,7 @@ Examples:
 
 macOS (via MacPorts):
 
-$ sudo port install py27-pyside py27-simplejson py27-serial py27-matplotlib
+$ sudo port install py27-pyside py27-simplejson py27-serial
 
 $ sudo easy_install-2.7 jaraco.nxt
 
