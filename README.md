@@ -20,7 +20,7 @@ https://www.gnu.org/licenses/agpl-3.0.html
 
 Download Releases:
 
-Github: https://github.com/PuzzleboxIO/brainstorms-python/tree/master/releases
+GitHub: https://github.com/PuzzleboxIO/brainstorms-python/tree/master/releases
 
 
 ============
